@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-22T22:57:16.584627",
+  "updated_at": "2026-10-22T23:16:21.775864",
   "backups": [
+    {
+      "name": "db_backup_2026-10-22_23-16-19.zip",
+      "type": "database",
+      "category": "db",
+      "git_path": "db/db_backup_2026-10-22_23-16-19.zip",
+      "size": 28417866,
+      "created": "2026-10-22T23:16:21.290458",
+      "size_mb": 27.1,
+      "is_auto": false
+    },
     {
       "name": "db_backup_2026-10-22_22-57-08.zip",
       "type": "database",
@@ -31,17 +41,7 @@
       "category": "media",
       "git_path": "media/media_backup_2026-10-22_22-57-14.zip",
       "size": 38202195,
-      "created": "2026-10-22T22:57:16.145558",
-      "size_mb": 36.43,
-      "counts": {
-        "drops": 428,
-        "games": 96,
-        "proxy": 21,
-        "sounds": 0,
-        "data": 2
-      },
-      "total_files": 547,
-      "is_auto": true
+      "created": "2026-10-22T22:57:16.145558"
     },
     {
       "name": "media_backup_2026-10-22_22-42-36.zip",
@@ -60,6 +60,6 @@
       "created": "2026-10-22T22:41:37.310955"
     }
   ],
-  "latest_db": "db/db_backup_2026-10-22_22-57-08.zip",
+  "latest_db": "db/db_backup_2026-10-22_23-16-19.zip",
   "latest_media": "media/media_backup_2026-10-22_22-57-14.zip"
 }
