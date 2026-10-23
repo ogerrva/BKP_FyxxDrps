@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-10-23T05:23:18.562333",
+  "updated_at": "2026-10-23T06:51:39.818890",
   "backups": [
+    {
+      "name": "db_backup_2026-10-23_06-51-35.zip",
+      "type": "database",
+      "category": "db",
+      "git_path": "db/db_backup_2026-10-23_06-51-35.zip",
+      "size": 28421272,
+      "created": "2026-10-23T06:51:39.282880",
+      "size_mb": 27.1,
+      "is_auto": true
+    },
     {
       "name": "db_backup_2026-10-23_05-23-16.zip",
       "type": "database",
       "category": "db",
       "git_path": "db/db_backup_2026-10-23_05-23-16.zip",
       "size": 28421208,
-      "created": "2026-10-23T05:23:18.058334",
-      "size_mb": 27.1,
-      "is_auto": true
+      "created": "2026-10-23T05:23:18.058334"
     },
     {
       "name": "db_backup_2026-10-22_23-39-34.zip",
@@ -36,14 +44,6 @@
       "created": "2026-10-23T00:23:19.267387"
     },
     {
-      "name": "db_backup_2026-10-22_22-41-53.zip",
-      "type": "database",
-      "category": "db",
-      "git_path": "db/db_backup_2026-10-22_22-41-53.zip",
-      "size": 28416814,
-      "created": "2026-10-23T00:23:19.241387"
-    },
-    {
       "name": "media_backup_2026-10-22_22-57-14.zip",
       "type": "media",
       "category": "media",
@@ -68,6 +68,6 @@
       "created": "2026-10-23T00:23:19.471388"
     }
   ],
-  "latest_db": "db/db_backup_2026-10-23_05-23-16.zip",
+  "latest_db": "db/db_backup_2026-10-23_06-51-35.zip",
   "latest_media": "media/media_backup_2026-10-22_22-57-14.zip"
 }
