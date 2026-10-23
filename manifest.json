@@ -1,0 +1,16 @@
+{
+  "updated_at": "2026-10-22T22:41:31.880440",
+  "backups": [
+    {
+      "name": "db_backup_2026-10-22_22-41-28.zip",
+      "type": "database",
+      "category": "db",
+      "git_path": "db/db_backup_2026-10-22_22-41-28.zip",
+      "size": 28415499,
+      "created": "2026-10-22T22:41:31.439927",
+      "size_mb": 27.1,
+      "is_auto": true
+    }
+  ],
+  "latest_db": "db/db_backup_2026-10-22_22-41-28.zip"
+}
