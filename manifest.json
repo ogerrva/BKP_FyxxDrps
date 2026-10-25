@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-25T12:01:15.047251",
+  "updated_at": "2026-10-25T12:01:54.326845",
   "backups": [
+    {
+      "name": "media_backup_2026-10-25_12-01-20.zip",
+      "type": "media",
+      "category": "media",
+      "release_tag": "v-backups",
+      "size": 366595775,
+      "created": "2026-10-25T12:01:54.326839",
+      "size_mb": 349.61,
+      "counts": {
+        "drops": 8696,
+        "games": 0,
+        "proxy": 0,
+        "sounds": 0,
+        "data": 2
+      },
+      "total_files": 8698,
+      "is_auto": true
+    },
     {
       "name": "db_backup_2026-10-25_12-01-12.zip",
       "type": "database",
